@@ -1,0 +1,9 @@
+Directory Structure
+===================
+watch	- watch side code, Code Composer Studio v4 project
+door	- door side code, IAR Embedded Workbench project
+dongle	- PC dongle code, IAR Embedded Workbench project
+driver	- Linux driver for dongle, Linux kernel module
+daemon	- Linux daemon for logging
+web	- PHP Web interface
+
